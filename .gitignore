@@ -1,0 +1,10 @@
+.DS_Store
+
+
+
+msgCarrierDemo/Pods
+msgCarrierDemo/Podfile.lock
+msgCarrierDemo/msgCarrierDemo.xcworkspace
+msgCarrierDemo/SYBuild
+msgCarrierDemo/msgCarrierDemo.xcodeproj/xcuserdata
+msgCarrierDemo/msgCarrierDemo.xcodeproj/project.xcworkspace
